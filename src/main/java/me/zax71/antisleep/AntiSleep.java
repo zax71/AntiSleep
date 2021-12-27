@@ -6,7 +6,9 @@ public final class AntiSleep extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+
+        // Register events
+        // getServer().getPluginManager().registerEvents(new playerDeath(), this);
 
     }
 
