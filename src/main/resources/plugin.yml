@@ -1,0 +1,6 @@
+name: AntiSleep
+version: '${project.version}'
+main: me.zax71.antisleep.AntiSleep
+api-version: 1.18
+authors: [ Zax71 ]
+description: No more sleeping!
